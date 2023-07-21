@@ -89,7 +89,10 @@ console.log(validarFecha("  "))
 console.log(validarFecha(" 09-04-2023 "))
 
 
-// validar tiempo
+// 5validar tiempo 
+const date = new date ();
+const [month, day , year] = [ date.getmont]
+
 // validar fecha y hora de nacimiento
 // validar mes
 // validar semanas
